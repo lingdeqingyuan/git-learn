@@ -4,4 +4,5 @@ function abc() {
     console.log('aaafbb');
     console.log('aaafbb');
     console.log('aaafbb');
+    console.log('aaafbb');
 }
