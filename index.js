@@ -1,4 +1,4 @@
 //index.js
 function abc() {
-    console.log('a');
+    console.log('aaa')
 }
