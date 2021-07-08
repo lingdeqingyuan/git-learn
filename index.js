@@ -1,4 +1,4 @@
 //index.js
 function abc() {
-    console.log('121212')
+    console.log('ios')
 }
