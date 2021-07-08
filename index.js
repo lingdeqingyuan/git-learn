@@ -1,2 +1,4 @@
 //index.js
-function abc() {}
+function abc() {
+    console.log('121212')
+}
