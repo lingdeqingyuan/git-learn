@@ -1,6 +1,9 @@
 //index.js
 function abc() {
-    console.log('123')
+    console.log('ios')
+    console.log('aaaf');
+    console.log('aaaf');
+    console.log('aaaf');
     console.log('aaaf');
     console.log('aaaf');
     console.log('aaaf');
